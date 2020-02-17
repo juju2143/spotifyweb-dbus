@@ -1,0 +1,7 @@
+{
+    "clientId": "",
+    "clientSecret": "",
+    "redirectURL": "http://localhost:34257/callback",
+    "state": "potatoes",
+    "interval": 3000
+}

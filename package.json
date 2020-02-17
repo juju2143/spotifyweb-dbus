@@ -1,0 +1,16 @@
+{
+  "name": "spotifyweb-dbus",
+  "version": "0.1.0",
+  "description": "Spotify Web API to DBus proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./index.js",
+  "author": "juju2143",
+  "license": "LiLiQ-P-1.1",
+  "dependencies": {
+    "mpris-service": "^2.1.0",
+    "spotify-web-api-node": "^4.0.0"
+  }
+}
